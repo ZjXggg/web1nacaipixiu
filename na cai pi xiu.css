@@ -1,4 +1,4 @@
-/*
+﻿/*
 * @Author: lenovo
 * @Date:   2019-06-18 11:36:02
 * @Last Modified by:   lenovo
@@ -27,6 +27,9 @@ a{
 	height: 35px;
 	width:1200px ;
 	/* background-color: red; */
+}
+.hei a{
+                 color:#5d5c5a
 }
 .hei p{
 	float: right;
